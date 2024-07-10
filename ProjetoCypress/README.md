@@ -31,7 +31,7 @@ Selecionar o navegador para executar o teste, em seguida clicar no botão:
 Selecionar o script de teste para execução:
 
 ```bash
-  ValidacaoTelaCalculo
+  ValidacaoCalculoFrete
 ```
 Após a conclusão selecionar o outro script de teste:
 
